@@ -1,5 +1,5 @@
 #include "sdt.h"
-
+//программа является учебной
 int main()
 {
    int x,y, sum,ruz;
