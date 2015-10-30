@@ -15,5 +15,6 @@ int main()
         <<"Ruz: " <<ruz <<'\n'
         <<"Pro: " <<pro <<'\n'
         <<"Del: " <<del <<'\n';
+//***
 
 }
